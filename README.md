@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tinus899
 - 👀 I’m interested in Sailing and coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP & SQL
 - 📫 How to reach me; via this github page
