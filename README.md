@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Martijn
-- 👀 I’m interested in Sailing and coding
-- 🌱 I’m currently learning PHP & SQL
-- 📫 How to reach me; via this github page
